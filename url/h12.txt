@@ -41,7 +41,6 @@ https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1343000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1344000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1410000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1420000.txt
-https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1430000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1441000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1442000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C1443000.txt
@@ -148,7 +147,6 @@ https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2A22000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2A23000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B11000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B12000.txt
-https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B13000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B20000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B30000.txt
 https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h12/text/C2B40000.txt
